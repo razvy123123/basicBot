@@ -176,8 +176,9 @@
 
     var botCreator = "Matthew (Yemasthui)";
     var botMaintainer = "Benzi (Quoona)";
-    var botHelper = "Corran (Choccat)"
-    var botCreatorIDs = ["3851534", "4105209", " 4771031"];
+    var botHelper = "Corran (Choccat)";
+    vr botOwner = "Zolt (ZoltOfLightning)"
+    var botCreatorIDs = ["3851534", "4105209", " 4771031", "6154457"];
 
     var basicBot = {
         version: "1.2.4",
@@ -2828,7 +2829,7 @@
                     if (this.type === 'exact' && chat.message.length !== cmd.length) return void (0);
                     if (!basicBot.commands.executable(this.rank, chat)) return void (0);
                     else {
-                        API.sendChat('/me This bot was created by ' + botCreator + ', but is now maintained by ' + botMaintainer + ".");
+                        API.sendChat('/me This bot was created by ' + botCreator + ', but is now maintained by ' + botMaintainer + ' ' + botHelper + ' has helped make this possible! ' + botOwner + ' owns the bot.".");
                     }
                 }
             },
