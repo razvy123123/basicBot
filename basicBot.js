@@ -183,8 +183,8 @@
     var basicBot = {
         version: "1.2.4",
         status: false,
-        name: "basicBot",
-        loggedInID: null,
+        name: "Electribot",
+        loggedInID: "6434174",
         scriptLink: "https://rawgit.com/ZoltofLightning/basicBot/master/basicBot.js",
         cmdLink: "http://git.io/245Ppg",
         chatLink: "https://rawgit.com/ZoltofLightning/basicBot/master/lang/en.json",
