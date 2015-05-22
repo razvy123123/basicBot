@@ -176,15 +176,14 @@
 
     var botCreator = "Matthew (Yemasthui)";
     var botMaintainer = "Benzi (Quoona)";
-    var botHelper = "Corran (Choccat)";
-    vr botOwner = "Zolt (ZoltOfLightning)"
-    var botCreatorIDs = ["3851534", "4105209", " 4771031", "6154457"];
+    var botHelper = "Corran (Choccat)"
+    var botCreatorIDs = ["3851534", "4105209", " 4771031"];
 
     var basicBot = {
         version: "1.2.4",
         status: false,
-        name: "Electribot",
-        loggedInID: "6434174",
+        name: "basicBot",
+        loggedInID: null,
         scriptLink: "https://rawgit.com/ZoltofLightning/basicBot/master/basicBot.js",
         cmdLink: "http://git.io/245Ppg",
         chatLink: "https://rawgit.com/ZoltofLightning/basicBot/master/lang/en.json",
@@ -1848,18 +1847,15 @@
                         for (var i = 0; i < chats.length; i++) {
                             var n = from[i].textContent;
                             if (name.trim() === n.trim()) {
-
                                 // var messagecid = $(message)[i].getAttribute('data-cid');
                                 // var emotecid = $(emote)[i].getAttribute('data-cid');
                                 // API.moderateDeleteChat(messagecid);
-
                                 // try {
                                 //     API.moderateDeleteChat(messagecid);
                                 // }
                                 // finally {
                                 //     API.moderateDeleteChat(emotecid);
                                 // }
-
                                 if (typeof $(message)[i].getAttribute('data-cid') == "undefined"){
                                     API.moderateDeleteChat($(emote)[i].getAttribute('data-cid')); // works well with normal messages but not with emotes due to emotes and messages are seperate.
                                 } else {
@@ -2829,7 +2825,7 @@
                     if (this.type === 'exact' && chat.message.length !== cmd.length) return void (0);
                     if (!basicBot.commands.executable(this.rank, chat)) return void (0);
                     else {
-                        API.sendChat('/me This bot was created by ' + botCreator + ', but is now maintained by ' + botMaintainer + ' ' + botHelper + ' has helped make this possible! ' + botOwner + ' owns the bot.".");
+                        API.sendChat('/me This bot was created by ' + botCreator + ', but is now maintained by ' + botMaintainer + ".");
                     }
                 }
             },
@@ -3131,7 +3127,6 @@
                              indexMuted = i;
                              wasMuted = true;
                              }
-
                              }
                              if (!wasMuted) return API.sendChat(subChat(basicBot.chat.notmuted, {name: chat.un}));
                              basicBot.room.mutedUsers.splice(indexMuted);
