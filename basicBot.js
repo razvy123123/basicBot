@@ -898,7 +898,7 @@
                 var remaining = obj.media.duration * 1000;
                 basicBot.room.autoskipTimer = setTimeout(function () {
                     console.log("Skipping track.");
-                    //API.sendChat('Song stuck, skipping...');
+                    API.sendChat('Track stuck, Skipping!');
                     API.moderateForceSkip();
                 }, remaining + 3000);
             }
