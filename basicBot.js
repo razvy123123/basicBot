@@ -231,7 +231,7 @@
             afkRankCheck: "ambassador",
             motdEnabled: false,
             motdInterval: 5,
-            motd: "Temporary Message of the Day",
+            motd: "Hello my friends.",
             filterChat: true,
             etaRestriction: false,
             welcome: true,
@@ -242,7 +242,7 @@
             youtubeLink: null,
             website: null,
             intervalMessages: [],
-            messageInterval: 5,
+            messageInterval: 2,
             songstats: true,
             commandLiteral: "!",
             blacklists: {
@@ -1109,10 +1109,10 @@
                 'hueh', 'hu3', 'brbr', 'heu', 'brbr', 'kkkk', 'spoder', 'mafia', 'zuera', 'zueira',
                 'zueria', 'aehoo', 'aheu', 'alguem', 'algum', 'brazil', 'zoeira', 'fuckadmins', 'affff', 'vaisefoder', 'huenaarea',
                 'hitler', 'ashua', 'ahsu', 'ashau', 'lulz', 'huehue', 'hue', 'huehuehue', 'merda', 'pqp', 'puta', 'mulher', 'pula', 'retarda', 'caralho', 'filha', 'ppk',
-                'gringo', 'fuder', 'foder', 'hua', 'ahue', 'modafuka', 'modafoka', 'mudafuka', 'mudafoka', 'ooooooooooooooo', 'foda'
+                'gringo', 'fuder', 'foder', 'hua', 'ahue', 'modafuka', 'modafoka', 'mudafuka', 'mudafoka', 'ooooooooooooooo', 'foda', 'FUUUUUUUUUUUUUUUUUCK'
             ],
             curses: [
-                'nigger', 'faggot', 'nigga', 'niqqa', 'motherfucker', 'modafocka'
+                'nigger', 'faggot', 'nigga', 'niqqa', 'motherfucker', 'modafocka', 'fuck', 'shit', 'fucking', 'bitch', 'fucker', 'pusy', 'cunt', 'kant', 'fuckboi'
             ]
         },
         connectAPI: function () {
