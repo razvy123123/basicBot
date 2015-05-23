@@ -874,6 +874,7 @@
                         if (apihistory[i].media.cid === obj.media.cid) {
                             API.sendChat(subChat(basicBot.chat.songknown, {name: name}));
                             API.moderateForceSkip();
+                            basicBot.userUtilities.moveUser(id, basicBot.settings.lockskipPosition, false);
                             basicBot.room.historyList[i].push(+new Date());
                             alreadyPlayed = true;
                         }
@@ -2345,7 +2346,6 @@
 
                             if (chat.message.length === cmd.length) {
                                 API.sendChat(subChat(basicBot.chat.usedlockskip, {name: chat.un}));
-                                basicBot.roomUtilities.booth.lockBooth();
                                 setTimeout(function (id) {
                                     API.moderateForceSkip();
                                     basicBot.room.skippable = false;
@@ -2356,7 +2356,6 @@
                                         basicBot.userUtilities.moveUser(id, basicBot.settings.lockskipPosition, false);
                                         basicBot.room.queueable = true;
                                         setTimeout(function () {
-                                            basicBot.roomUtilities.booth.unlockBooth();
                                         }, 1000);
                                     }, 1500, id);
                                 }, 1000, id);
