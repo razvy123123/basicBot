@@ -152,7 +152,7 @@
     "commandslink": "\/me %%BOTNAME%% commands: %%LINK%%",
     "eatcookie": "\/me eats a cookie.",
     "nousercookie": "\/em doesn't see %%NAME%% in room and eats a cookie himself.",
-    "selfcookie": "!kick @%%NAME%%",
+    "selfcookie": "\/ban @%%NAME%%",
     "cookie": "\/me @%%NAMETO%%, %%NAMEFROM%% %%COOKIE%%",
     "cycleguardtime": "\/me @%%NAME%% The cycleguard is set to %%TIME%% minute(s).",
     "dclookuprank": "\/me @%%NAME%% Only bouncers and above can do a lookup for others.",
