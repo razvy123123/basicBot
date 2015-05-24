@@ -38,7 +38,7 @@
     "permissionownsong": "\/me :up: @%%NAME%% has permission to play their own production!",
     "isblacklisted": "\/me This track is on the %%BLACKLIST%% blacklist! Skipping...",
     "isopen": "\/me @djs The roulette is now open! Type !join to participate!",
-    "winnerpicked": "\/me A winner has been picked! @%%NAME%% to position %%POSITION%%.",
+    "winnerpicked": "\/me :tada: A winner has been picked! @%%NAME%% to position %%POSITION%%.",
     "ball": "\/me %%NAME%%'s question was: \"%%QUESTION%%\" and my response is: \"%%RESPONSE%%\"",
     "notghosting": "%%NAME1%% %%NAME2%% is not ghosting.",
     "ghosting": "%%NAME1%% %%NAME2%% is either ghosting or not here.",
