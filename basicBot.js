@@ -217,7 +217,7 @@
             autodisable: true,
             commandCooldown: 30,
             usercommandsEnabled: true,
-            lockskipPosition: 3,
+            lockskipPosition: 2,
             lockskipReasons: [
                 ["theme", "This song does not fit the room theme. "],
                 ["op", "This song is on the OP list. "],
