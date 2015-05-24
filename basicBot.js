@@ -260,7 +260,7 @@
             usercommand: true,
             allcommand: true,
             afkInterval: null,
-            autoskip: false,
+            autoskip: true,
             autoskipTimer: null,
             autodisableInterval: null,
             autodisableFunc: function () {
