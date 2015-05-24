@@ -47,7 +47,7 @@ Manager
 |!maxlength | X | specify the maximum length a song can be when timeguard is enabled |
 |!roulette | | start a roulette |
 |!songstats | | toggle song statistics |
-|!swap |(x) (x)| swap a user with another user in the waitlist |
+|!swap |(user 1) (user 2)| swap a user with another user in the waitlist |
 |!togglebl | | toggle the blacklist |
 |!togglevoteskip | | toggle the voteskip |
 |!togglemotd | | toggle the motd |
