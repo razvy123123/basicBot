@@ -2329,7 +2329,7 @@
             },
 
             lockskipCommand: {
-                command: 'lockskip',
+                command: ['lockskip', 'ls'],
                 rank: 'bouncer',
                 type: 'startsWith',
                 functionality: function (chat, cmd) {
