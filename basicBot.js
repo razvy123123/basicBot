@@ -874,7 +874,6 @@
                         if (apihistory[i].media.cid === obj.media.cid) {
                             API.sendChat(subChat(basicBot.chat.songknown, {name: name}));
                             API.moderateForceSkip();
-                            basicBot.userUtilities.moveUser(id, basicBot.settings.lockskipPosition, false);
                             basicBot.room.historyList[i].push(+new Date());
                             alreadyPlayed = true;
                         }
