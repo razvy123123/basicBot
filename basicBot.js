@@ -898,8 +898,8 @@
             if (basicBot.room.autoskip) {
                 var remaining = obj.media.duration * 1000;
                 basicBot.room.autoskipTimer = setTimeout(function () {
-                    console.log("Skipping track.");
-                    API.sendChat('Track stuck, Skipping!');
+                    console.log("Skipping track due to it not advancing.");
+                    API.sendChat('/me Track stuck, Skipping!');
                     API.moderateForceSkip();
                 }, remaining + 3000);
             }
