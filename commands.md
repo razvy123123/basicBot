@@ -40,7 +40,6 @@ Manager
 |!cycle | | toggle DJ cycle |
 |!cycletimer | X | set the maximum DJ cycle time for when cycleguard is enabled |
 |!filter | | toggles the chat filter |
-|!gif | (message) | returns gif (from giphy) related to the tag provided. Returns a random gif if no tags are provided. |
 |!lock | | lock the waitlist |
 |!lockdown | | lock down the room: only staff can chat |
 |!locktimer | X | set the maximum time the waitlist can be locked if lockguard is enabled |
@@ -75,6 +74,7 @@ Bouncer
 |!english | @user | ask user to speak english (asked in the language they set plug to) |
 |!eta | (@user) | shows when user will reach the booth |
 |!ghostbuster | @user | checks if user is ghosting |
+|!gif | (message) | returns gif (from giphy) related to the tag provided. Returns a random gif if no tags are provided. |
 |!jointime | @user | shows how long the user has been in the room |
 |!kick | (X) | kicks user for X minutes, default is 0.25 minutes (15 seconds) |
 |!lockguard | | toggle the lockguard |
