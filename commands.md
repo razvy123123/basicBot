@@ -40,6 +40,7 @@ Manager
 |!cycle | | toggle DJ cycle |
 |!cycletimer | X | set the maximum DJ cycle time for when cycleguard is enabled |
 |!filter | | toggles the chat filter |
+|!gif | (message) | returns gif (from giphy) related to the tag provided. Returns a random gif if no tags are provided. |
 |!lock | | lock the waitlist |
 |!lockdown | | lock down the room: only staff can chat |
 |!locktimer | X | set the maximum time the waitlist can be locked if lockguard is enabled |
@@ -116,7 +117,6 @@ User
 |!emoji | | a link to a list with emoji's |
 |!eta | | shows how long before you reach the booth |
 |!fb | | links to the room's Facebook page (if set in the settings) |
-|!gif | (message) | returns gif (from giphy) related to the tag provided. Returns a random gif if no tags are provided. |
 |!help | | links to an image to help get people started on plug |
 |!join | | join the roulette if it's up |
 |!leave | | leave the roulette if you joined |
