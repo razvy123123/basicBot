@@ -150,7 +150,7 @@
     "bouncerplusrank": "\/me @%%NAME%% You have to be manager or up to enable Bouncer+.",
     "chatcleared": "\/me @%%NAME%% has 360Noscoped the chat.",
     "deletechat": "\/me @%%NAME%% Cleared the chat of %%USERNAME%%.",
-    "commandslink": "\/me %%BOTNAME%% commands: %%LINK%%",
+    "commandslink": "\/me %%BOTNAME%% commands: https://github.com/ZoltofLightning/basicBot/blob/master/commands.md",
     "eatcookie": "\/me eats a cookie.",
     "nousercookie": "\/em doesn't see %%NAME%% in room and eats a cookie himself.",
     "selfcookie": "\/me @%%NAME%%, you're a bit greedy, aren't you? Giving cookies to yourself, bah. Share some with other people!",
