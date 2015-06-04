@@ -30,7 +30,7 @@ Host
 
 |Rule | Description | Points/Punishment  |
 |:------:|:---------:|:--------------------------------------:|
-|#1 | (botname) | change the bot name |
+|#1 | Asking For a Staff Position | Cannot Become Staff |
 |!botname | (botname) | change the bot name |
 |!botname | (botname) | change the bot name |
 |!botname | (botname) | change the bot name |
