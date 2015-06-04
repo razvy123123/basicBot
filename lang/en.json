@@ -165,7 +165,7 @@
     "roulettejoin": "\/me @%%NAME%% joined the roulette! (!leave if you regret it.)",
     "jointime": "\/me @%%NAMEFROM%% @%%USERNAME%% has been in the room for %%TIME%%.",
     "kickrank": "\/me @%%NAME%% you can't kick users with an equal or higher rank than you!",
-    "kick": "\/me @%%NAME%%, @%%USERNAME%% you are being kicked from the community for %%TIME%% minutes.",
+    "kick": "\/me @%%NAME%%, @%%USERNAME%% you are being banished to the moon for %%TIME%% minutes.",
     "kill": "\/me Delete my browser history!",
     "logout": "\/me @%%NAME%% Logging out %%BOTNAME%%",
     "rouletteleave": "\/me @%%NAME%% chickened out and left the roulette! N00b.",
