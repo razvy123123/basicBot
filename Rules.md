@@ -34,8 +34,8 @@ Rules
 |#1 | Asking For a Staff Position | Cannot Become Staff |
 |#2 | Song Longer than 7 Minutes | Autoskipped |
 |#3 | Excessive swearing, arguments, or offensive/inappropriate comments.  | 1-5 |
-|#4 | Inappropriate, offensive, or non-music videos. | 1-5 |
-|#5 | (botname) | change the bot name |
+|#4 | Inappropriate, offensive, or non-music videos. | 1-4 |
+|#5 | Threatening, violent, pornographic, harassing, obscene, racist, defamatory, or otherwise objectionable videos | 10-20 |
 
 
 CoHost
