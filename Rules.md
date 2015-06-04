@@ -28,9 +28,9 @@ Rule Point Guide
 Host
 -------
 
-|Rule | Description | Points  |
+|Rule | Description | Points/Punishment  |
 |:------:|:---------:|:--------------------------------------:|
-|!botname | (botname) | change the bot name |
+|#1 | (botname) | change the bot name |
 |!botname | (botname) | change the bot name |
 |!botname | (botname) | change the bot name |
 |!botname | (botname) | change the bot name |
