@@ -25,14 +25,14 @@ Rule Point Guide
 15- One Day Ban
 
 20- Permanent Ban
-Host
+Rules
 -------
 
 |Rule | Description | Points/Punishment  |
 |:------:|:---------:|:--------------------------------------:|
 |#1 | Asking For a Staff Position | Cannot Become Staff |
-|!botname | (botname) | change the bot name |
-|!botname | (botname) | change the bot name |
+|#2 | Excessive swearing, arguments, or offensive/inappropriate comments.  | 1-5 |
+|#3 | Inappropriate, offensive, or non-music videos. | 1-5 |
 |!botname | (botname) | change the bot name |
 |!botname | (botname) | change the bot name |
 
