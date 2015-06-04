@@ -1,14 +1,28 @@
 ▬▬▬ⓉⒽⒺ▬ஜ۩۞۩ஜ▬ⓇⓊⓁⒺⓈ▬▬▬
 ------------------------------
-
+Rule Point Guide
+1-
+2-
+3-
+4-
+5-
+6-
+7-
+8-
+9-
+10-
 
 
 Host
 -------
 
-|Command | Arguments |  Description |
+|Rule | Description | Points  |
 |:------:|:---------:|:--------------------------------------:|
-|!logout | | logout the bot. |
+|!botname | (botname) | change the bot name |
+|!botname | (botname) | change the bot name |
+|!botname | (botname) | change the bot name |
+|!botname | (botname) | change the bot name |
+|!botname | (botname) | change the bot name |
 
 
 CoHost
