@@ -1,8 +1,7 @@
-▬▬▬▬▬ⓉⒽⒺ▬ஜ۩۞۩ஜ▬ⓇⓊⓁⒺⓈ▬▬▬▬
-=========
+▬▬▬ⓉⒽⒺ▬ஜ۩۞۩ஜ▬ⓇⓊⓁⒺⓈ▬▬▬
+------------------------------
 
-X specifies a number  
-Arguments between ( ) are optional
+
 
 Host
 -------
@@ -103,8 +102,8 @@ Resident DJ
 
 
 
-User
-----
+Staff Rules
+-------
 
 |Command | Arguments |  Description |
 |:------:|:---------:|:--------------------------------------:|
