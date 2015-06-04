@@ -35,7 +35,7 @@ Rules
 |#2 | Song Longer than 7 Minutes | Autoskipped |
 |#3 | Excessive swearing, arguments, or offensive/inappropriate comments.  | 1-5 |
 |#4 | Inappropriate, offensive, or non-music videos. | 1-4 |
-|#5 | Threatening, violent, pornographic, harassing, obscene, racist, defamatory, or otherwise objectionable videos | 10-20 |
+|#5 | Any content (video, audio, or text) that is unlawful, threatening, violent, pornographic, harassing, obscene, racist, or defamatory. | 10-20 |
 
 
 CoHost
