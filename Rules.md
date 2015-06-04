@@ -3,15 +3,7 @@
 Rule Point Guide
 ----------------
 
-1- Warning
-
-2- 
-
-3- 
-
-4- 
-
-5- 
+1-5- Warnings
 
 6- 
 
@@ -25,7 +17,7 @@ Rule Point Guide
 
 15- One Day Ban
 
-20- Permanent Ban
+25- Permanent Ban
 Rules
 -------
 
@@ -36,6 +28,6 @@ Rules
 |#3 | Spamming the Chat | 1-2 |
 |#4 | Excessive swearing, arguments, or offensive/inappropriate comments.  | 1-3 |
 |#5 | Inappropriate, offensive, or non-music videos. | 1-3 |
-|#6 | Disrespecting Staff. | 1-4 |
+|#6 | Disrespecting Staff. | 2-4 |
 |#7 | Advertising. | 5-7 |
-|#8 | Any content (video, audio, or text) that is unlawful, threatening, violent, pornographic, harassing, obscene, racist, or defamatory. | 10-20 |
+|#8 | Any content (video, audio, or text) that is unlawful, threatening, violent, pornographic, harassing, obscene, racist, or defamatory. | 10-25 |
