@@ -1,6 +1,6 @@
 ▬▬▬ⓉⒽⒺ▬ஜ۩۞۩ஜ▬ⓇⓊⓁⒺⓈ▬▬▬
 ------------------------------
-Rule Point Guide
+Rule Point Guide (Reset Every Week)
 ----------------
 
 1-5- Warnings
