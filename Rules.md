@@ -2,27 +2,29 @@
 ------------------------------
 Rule Point Guide
 
-1-
+1- Warning
 
-2-
+2- 
 
-3-
+3- 
 
-4-
+4- 
 
-5-
+5- 
 
-6-
+6- 
 
-7-
+7- Muted/Booth Ban for 15 minutes
 
-8-
+8- Muted/Booth Ban for 30 minutes
 
-9-
+9- Muted/Booth Ban for 45 minutes
 
-10-
+10- One Hour Ban
 
+15- One Day Ban
 
+20- Permanent Ban
 Host
 -------
 
