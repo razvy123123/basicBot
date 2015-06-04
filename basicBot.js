@@ -236,7 +236,7 @@
             etaRestriction: false,
             welcome: true,
             opLink: null,
-            rulesLink: https://github.com/ZoltofLightning/basicBot/blob/master/Rules.md,
+            rulesLink: "https://github.com/ZoltofLightning/basicBot/blob/master/Rules.md",
             themeLink: null,
             fbLink: null,
             youtubeLink: null,
