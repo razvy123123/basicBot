@@ -74,7 +74,6 @@ Bouncer
 |!english | @user | ask user to speak english (asked in the language they set plug to) |
 |!eta | (@user) | shows when user will reach the booth |
 |!ghostbuster | @user | checks if user is ghosting |
-|!gif | (message) | returns gif (from giphy) related to the tag provided. Returns a random gif if no tags are provided. |
 |!jointime | @user | shows how long the user has been in the room |
 |!kick | (X) | kicks user for X minutes, default is 0.25 minutes (15 seconds) |
 |!lockguard | | toggle the lockguard |
@@ -113,6 +112,7 @@ User
 |!ba | | explains the Brand Ambassador rank |
 |!commands | | gives a link to the commands |
 |!cookie | (@user) | give a cookie to user |
+|!gif | (message) | returns gif (from giphy) related to the tag provided. Returns a random gif if no tags are provided. |
 |!dclookup / !dc | | use dclookup on yourself |
 |!emoji | | a link to a list with emoji's |
 |!eta | | shows how long before you reach the booth |
