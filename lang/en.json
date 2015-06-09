@@ -73,7 +73,7 @@
     "greyuser": "Only bouncers and up can run a bot.",
     "bouncer": "The bot can't move people when it's run as a bouncer.",
     "online": "\/me I'm back. Did you miss me?",
-    "welcome": "/me @%%NAME%% Welcome to hell. We trust you'll enjoy your stay. (-_(-_(-_(-_-)_-)_-)_-)",
+    "welcome": "/me @staff %%NAME%% has joined the room.",
     "welcomeback": "/me Can... Can I... Can I touch you? (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ @%%NAME%%",
     "songknown": "\/me @%%NAME%%, this song was played recently.",
     "timelimit": "\/me @%%NAME%%, your song is longer than %%MAXLENGTH%% minutes, ask  manager for permission to play longer songs.",
