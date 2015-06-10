@@ -74,7 +74,7 @@
     "bouncer": "The bot can't move people when it's run as a bouncer.",
     "online": "\/me I'm back. Did you miss me?",
     "welcome": "/me @staff %%NAME%% has joined the room for the first time.",
-    "welcomeback": "/me @staff %NAME%% has returned to the room.",
+    "welcomeback": "/me @staff %%NAME%% has returned to the room.",
     "songknown": "\/me @%%NAME%%, this song was played recently.",
     "timelimit": "\/me @%%NAME%%, your song is longer than %%MAXLENGTH%% minutes, ask  manager for permission to play longer songs.",
     "permissionownsong": "\/me :up: @%%NAME%% has permission to play their own production!",
