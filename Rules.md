@@ -3,7 +3,7 @@
 Rules
 -------
 
-|Rule Broken| Description | Punishment  |
+|Rule Broken| Description | Punishment |
 |:------:|:---------:|:--------------------------------------:|
 |#1 | Asking For a Staff Position. | Cannot/Less Likely to Become Staff. |
 |#2 | Songs Longer than 7 Minutes. | Autoskipped. |
@@ -14,3 +14,4 @@ Rules
 |#7 | Advertising. | Mute/Ban |
 |#8 | Any content (video, audio, or text) that is unlawful, threatening, violent, pornographic, harassing, obscene, racist, or defamatory. | Booth Ban |
 -------------------
+(Repeated offenses receive more severe punishments.)
