@@ -244,7 +244,7 @@
             intervalMessages: [],
             messageInterval: 2,
             songstats: true,
-            commandLiteral: "?",
+            commandLiteral: "!",
             blacklists: {
                 NSFW: "https://rawgit.com/Yemasthui/basicBot-customization/master/blacklists/ExampleNSFWlist.json",
                 OP: "https://rawgit.com/Yemasthui/basicBot-customization/master/blacklists/ExampleOPlist.json",
@@ -2185,7 +2185,7 @@
             },
 
             killCommand: {
-                command: 'kill',
+                command: 'die',
                 rank: 'cohost',
                 type: 'exact',
                 functionality: function (chat, cmd) {
