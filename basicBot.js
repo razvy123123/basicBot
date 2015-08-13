@@ -214,7 +214,7 @@
             historySkip: false,
             timeGuard: true,
             maximumSongLength: 7,
-            autodisable: true,
+            autodisable: false,
             commandCooldown: 30,
             usercommandsEnabled: true,
             lockskipPosition: 1,
@@ -244,7 +244,7 @@
             intervalMessages: [],
             messageInterval: 2,
             songstats: true,
-            commandLiteral: "!",
+            commandLiteral: "?",
             blacklists: {
                 NSFW: "https://rawgit.com/Yemasthui/basicBot-customization/master/blacklists/ExampleNSFWlist.json",
                 OP: "https://rawgit.com/Yemasthui/basicBot-customization/master/blacklists/ExampleOPlist.json",
