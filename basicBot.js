@@ -237,8 +237,8 @@
 
     var basicBot = {
         version: "2.8.12",
-        status: false,
-        name: "basicBot",
+        status: true,
+        name: "RGxBot",
         loggedInID: null,
         scriptLink: "https://rawgit.com/Yemasthui/basicBot/master/basicBot.js",
         cmdLink: "http://git.io/245Ppg",
@@ -248,16 +248,16 @@
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
-            botName: "basicBot",
+            botName: "RGxBot",
             language: "english",
             chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
             scriptLink: "https://rawgit.com/Yemasthui/basicBot/master/basicBot.js",
             roomLock: false, // Requires an extension to re-load the script
-            startupCap: 1, // 1-200
-            startupVolume: 0, // 0-100
-            startupEmoji: false, // true or false
+            startupCap: 15, // 1-200
+            startupVolume: 50, // 0-100
+            startupEmoji: true, // true or false
             autowoot: true,
-            autoskip: false,
+            autoskip: true,
             smartSkip: true,
             cmdDeletion: true,
             maximumAfk: 120,
@@ -270,13 +270,13 @@
             maximumLocktime: 10,
             cycleGuard: true,
             maximumCycletime: 10,
-            voteSkip: false,
-            voteSkipLimit: 10,
-            historySkip: false,
+            voteSkip: true,
+            voteSkipLimit: 2,
+            historySkip: true,
             timeGuard: true,
             maximumSongLength: 10,
-            autodisable: true,
-            commandCooldown: 30,
+            autodisable: false,
+            commandCooldown: 0,
             usercommandsEnabled: true,
             skipPosition: 3,
             skipReasons: [
