@@ -11,7 +11,7 @@ Rules
 |#4 | Excessive swearing, arguments, or offensive/inappropriate comments.  | Mute |
 |#5 | Inappropriate, offensive, or non-music videos. | Skipped |
 |#6 | Disrespecting Staff. | Mute |
-|#7 | Advertising. | Mute/Ban |
-|#8 | Any content (video, audio, or text) that is unlawful, threatening, violent, pornographic, harassing, obscene, racist, or defamatory. | Booth Ban |
+|#7 | Advertising. | Mute |
+|#8 | Any discrimination or hateful comment against anyone based on race, gender or sexual orientation will result in a ban. |  Ban |
 -------------------
 (Repeated offenses receive more severe punishments.)
