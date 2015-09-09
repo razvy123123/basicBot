@@ -12,6 +12,6 @@ Rules
 |#5 | Inappropriate, offensive, or non-music videos. | Skipped |
 |#6 | Disrespecting Staff. | Mute |
 |#7 | Advertising. | Mute |
-|#8 | Any discrimination or hateful comment against anyone based on race, gender or sexual orientation will result in a ban. |  Ban |
+|#8 | Any discrimination or hateful comment against anyone based on race, gender or sexual orientation will result in a ban. |  Permanently Banned (Zero Tolerence Policy) |
 -------------------
 (Repeated offenses receive more severe punishments.)
