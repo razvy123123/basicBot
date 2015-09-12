@@ -9,7 +9,7 @@ Rules
 |#2 | Songs Longer than 7 Minutes. | Autoskipped |
 |#3 | Spamming the Chat | Mute |
 |#4 | Excessive swearing, arguments, or offensive/inappropriate comments.  | Mute |
-|#5 | Inappropriate, offensive, or non-music videos. | Skipped |
+|#5 | Inappropriate, offensive, MLG, or non-music videos. | Skipped |
 |#6 | Disrespecting Staff. | Mute |
 |#7 | Advertising. | Mute |
 |#8 | Any discrimination or hateful comment against anyone based on race, gender or sexual orientation will result in a ban. |  Permanently Banned (Zero Tolerence Policy) |
